@@ -1,0 +1,15 @@
+{
+  "name": "dell/good",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "ismaildev49",
+      "email": "ismaelbentatou@gmail.com"
+    }
+  ],
+  "require": {}
+}
